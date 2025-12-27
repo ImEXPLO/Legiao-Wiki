@@ -19,9 +19,13 @@ Mantenha o jogo leve "perto" de você para o DH cuidar do "longe".
 ## 🌍 Pré-Geração (Elimine o Lag)
 Para uma experiência 100% lisa, gere o mapa antes de explorar.
 1.  Entre no jogo e pause.
+
 2.  Digite `/chunky center`
+
 3.  Digite `/chunky radius 2000`
+
 4.  Digite `/chunky start`
+
 5.  Vá tomar um café. O PC vai trabalhar pesado por 10-15 min.
 
 ---
@@ -47,7 +51,11 @@ Keep the game lightweight "near" you so DH can handle the "far" distance.
 ## 🌍 Pre-Generation (Eliminate Lag)
 For a 100% smooth experience, generate the map before exploring.
 1.  Enter the game and pause.
+
 2.  Type `/chunky center`
+
 3.  Type `/chunky radius 2000`
+
 4.  Type `/chunky start`
+
 5.  Go grab a coffee. Your PC will work hard for 10-15 minutes.

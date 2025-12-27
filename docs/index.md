@@ -1,6 +1,6 @@
 # Bem-vindo à Legião
 
-![Logo Legião](assets/logo-legiao-minimum.png){ align=center width=300 }
+![Logo Legião](assets/logo-legiao-minimum.png)
 
 **Legião** não é apenas um modpack. É o equilíbrio perfeito entre a engenharia industrial e a feitiçaria arcana, projetado para oferecer uma experiência de **sobrevivência multiplayer** robusta e otimizada.
 
@@ -19,7 +19,7 @@ Neste mundo, você decide seu caminho: construir fábricas colossais que tocam o
 
 # Welcome to Legião
 
-![Legião Logo](assets/logo-legiao-minimum.png){ align=center width=300 }
+![Legião Logo](assets/logo-legiao-minimum.png)
 
 **Legião** is not just a modpack. It is the perfect balance between industrial engineering and arcane sorcery, designed to offer a robust and optimized **multiplayer survival** experience.
 
