@@ -1,5 +1,5 @@
 site_name: Legião Wiki
-site_url: https://seu-usuario.github.io/legiao-wiki/
+site_url: https://imexplo.github.io/Legiao-Wiki/
 site_description: Documentação oficial e guia de otimização do Modpack Legião.
 site_author: EXPLO
 
@@ -7,7 +7,7 @@ site_author: EXPLO
 theme:
   name: material
   language: pt-BR
-  logo: assets/logo.png  # (Lembre de colocar a imagem da cobra aqui!)
+  logo: assets/assets/logo-legiao-minimum.png  # (Lembre de colocar a imagem da cobra aqui!)
   favicon: assets/favicon.png
   
   # Cores
@@ -35,3 +35,21 @@ theme:
     - search.suggest
     - search.highlight
     - content.code.copy
+
+  nav:
+  - 🏠 Início: index.md
+  - 🇺🇸 English: en/index.md
+  
+  - 🚀 Instalação: instalacao.md
+  - ⚡ Otimização (DH): otimizacao.md
+  - 🛠️ Ajuda & FAQ: faq.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
