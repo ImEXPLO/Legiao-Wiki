@@ -1,0 +1,37 @@
+site_name: Legião Wiki
+site_url: https://seu-usuario.github.io/legiao-wiki/
+site_description: Documentação oficial e guia de otimização do Modpack Legião.
+site_author: EXPLO
+
+# Tema
+theme:
+  name: material
+  language: pt-BR
+  logo: assets/logo.png  # (Lembre de colocar a imagem da cobra aqui!)
+  favicon: assets/favicon.png
+  
+  # Cores
+  palette:
+    # Modo Escuro
+    - scheme: slate
+      primary: red      # O 'L' Vermelho
+      accent: green     # A Cobra Verde (botões, links)
+      toggle:
+        icon: material/weather-night
+        name: Mudar para modo claro
+    # Modo Claro -> Pra quem é lelé da cabeça
+    - scheme: default
+      primary: red
+      accent: green
+      toggle:
+        icon: material/weather-sunny
+        name: Mudar para modo escuro
+
+  # Extras
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
