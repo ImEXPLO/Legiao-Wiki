@@ -7,8 +7,8 @@ site_author: EXPLO
 theme:
   name: material
   language: pt-BR
-  logo: assets/assets/logo-legiao-minimum.png  # (Lembre de colocar a imagem da cobra aqui!)
-  favicon: assets/favicon.png
+  logo: assets/logo-legiao-minimum.png  # (Lembre de colocar a imagem da cobra aqui!)
+  favicon: assets/favicon.ico
   
   # Cores
   palette:
